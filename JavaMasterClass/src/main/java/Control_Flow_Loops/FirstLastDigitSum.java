@@ -1,3 +1,5 @@
+package Control_Flow_Loops;
+
 public class FirstLastDigitSum {
     public static int sumFirstAndLastDigit(int number){
         if(number<0){

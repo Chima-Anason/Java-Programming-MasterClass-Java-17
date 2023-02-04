@@ -1,3 +1,5 @@
+package Control_Flow_Loops;
+
 public class NumberPalindrome {
 
     public static boolean isPalindrome(int number){

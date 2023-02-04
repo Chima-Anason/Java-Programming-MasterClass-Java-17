@@ -1,3 +1,5 @@
+package Control_Flow_Loops;
+
 public class CalculateInterest {
 
     public static double calculateInterest(double amount, double interestRate){

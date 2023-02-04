@@ -1,3 +1,5 @@
+package Control_Flow_Loops;
+
 public class SumOddRange {
 
     public static boolean isOdd(int number){

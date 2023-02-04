@@ -1,3 +1,5 @@
+package Control_Flow_Loops;
+
 public class LastDigitChecker {
 
     public static boolean hasSameLastDigit(int num1, int num2, int num3){

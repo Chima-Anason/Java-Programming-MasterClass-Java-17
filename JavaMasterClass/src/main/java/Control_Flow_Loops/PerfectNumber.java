@@ -1,3 +1,5 @@
+package Control_Flow_Loops;
+
 public class PerfectNumber {
 
     public static boolean isPerfectNumber(int number){

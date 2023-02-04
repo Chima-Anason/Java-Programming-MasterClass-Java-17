@@ -1,3 +1,5 @@
+package Control_Flow_Loops;
+
 public class DigitSumChallenge {
 
     public static void main(String[] args) {

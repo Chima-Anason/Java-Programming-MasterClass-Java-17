@@ -1,3 +1,5 @@
+package Control_Flow_Loops;
+
 public class SharedDigit {
 
    /* public static boolean hasSharedDigit(int a, int b){
